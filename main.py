@@ -2,7 +2,6 @@ from tkinter import *
 from tkinter import ttk
 
 import calculation
-import numpy as np
 
 import Figure
 
