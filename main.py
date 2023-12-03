@@ -75,7 +75,7 @@ def Obrabotka():
                        matrix2_1_2, matrix2_2_2, matrix2_3_2,
                        crit31, crit32, crit33,
                        res_matrix_3_1, res_matrix_3_2)
-    calculation.Raschet1(res_matrix_1_1, res_matrix_2_1,res_matrix_2_2)
+    calculation.Raschet1(res_matrix_1_1, res_matrix_2_1, res_matrix_2_2)
     calculation.Raschet2(res_matrix_1_2, res_matrix_3_1, res_matrix_3_1)
 
 
